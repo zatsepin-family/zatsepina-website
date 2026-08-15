@@ -526,6 +526,10 @@ button:focus-visible {
     padding-block: 0.6rem;
   }
 
+  .site-header__brand {
+    margin-left: 0;
+  }
+
   .site-nav ul {
     gap: 1rem;
   }
