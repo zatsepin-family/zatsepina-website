@@ -19,7 +19,7 @@
   --font-sans:  "Inter", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
 
   /* Sizing */
-  --container-max: 1200px;
+  --container-max: 1400px;
   --container-pad: clamp(1.25rem, 4vw, 2.5rem);
   --gutter: clamp(1.5rem, 3vw, 3rem);
 
